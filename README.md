@@ -1,7 +1,6 @@
 # hanghaesisters
-프론트엔드와 협업으로 진행한 미니 프로젝트의 백엔드 코드입니다.  
+프론트엔드와 협업으로 진행한 미니 프로젝트 입니다.  
 프로젝트는 끝났지만 개인적으로 기능 추가, 코드 수정을 진행하려고 합니다.
-
 [[hanghaesisters_BE Repository]](https://github.com/HanghaeSisters/Back)
 
 ## TodoList
